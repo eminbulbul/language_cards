@@ -1,4 +1,4 @@
-site deployed with Netfly. Check react porject form here >>>> emin-languagecards.netlify.app
+site deployed with Netfly. Check react porject form here >>>> https://emin-languagecards.netlify.app/
 
 
 # Getting Started with Create React App
