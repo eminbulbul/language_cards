@@ -1,9 +1,13 @@
+import { languages } from "../../helpers/data";
+import Item from "../item/Item";
 const Card = () => {
   return (
-    <div>
-      <div></div>
-      <h5>Languages</h5>
-      <div></div>
+    <div className="cards-area-container">
+      {/* <div className="bars"></div> */}
+      <h1 className="language-title">Languages</h1>
+      {languages.map((item, index) => {
+        return <Item card={item} key={index} />;
+      })}
     </div>
   );
 };

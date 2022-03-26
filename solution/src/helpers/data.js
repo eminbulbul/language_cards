@@ -1,13 +1,13 @@
-import css from "../assets/css.png";
-import python from "../assets/python.png";
-import java from "../assets/java.png";
-import cpp from "../assets/cpp.png";
-import go from "../assets/go.png";
-import php from "../assets/php.png";
-import javascript from "../assets/javascript.png";
-import html from "../assets/html.png";
+import css from "../compenents/assets/css.png";
+import python from "../compenents/assets/python.png";
+import java from "../compenents/assets/java.png";
+import cpp from "../compenents/assets/cpp.png";
+import go from "../compenents/assets/go.png";
+import php from "../compenents/assets/php.png";
+import javascript from "../compenents/assets/javascript.png";
+import html from "../compenents/assets/html.png";
 
-export const categories = [
+export const languages = [
   {
     name: "javascript",
     img: javascript,
